@@ -1,0 +1,6 @@
+{
+  "name": "Smart Profile Management System",
+  "description": "One Profile. All Your Achievements. Your Complete Digital Identity — A centralized digital platform for college students to store, manage, and showcase academic, professional, and extracurricular records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
